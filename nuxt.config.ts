@@ -10,7 +10,7 @@ export default defineNuxtConfig({
     '@intlify/nuxt3',
   ],
   target: 'static',
-  // ssr: false,
+  ssr: false,
   vite: {
     plugins: [
       Components({
