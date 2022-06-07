@@ -3,6 +3,7 @@
 <Activities />
 <Schedule />
 <Needs />
+<Pricings />
 </template>
 
 <script setup lang="ts">

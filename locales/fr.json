@@ -29,7 +29,8 @@
   "payment": {
     "title": "Moyens de paiements",
     "cash": "Espèce",
-    "cv": "Chèque-vacances"
+    "cv": "Chèque-vacances",
+    "ch": "Chèque"
   },
   "club": {
     "history_title": "L'histoire du club",
@@ -56,7 +57,7 @@
     }
   },
   "pricings": {
-    "title": "tarifs",
+    "title": "Horaires et tarifs",
     "morning": "12€",
     "afternoon": "15€",
     "day": "18€",
@@ -72,11 +73,12 @@
     "lunch": "de 13h30 à 15h30",
     "afternoon": "de 15h30 à 18h30",
     "on_closing": "de 18h30 à 19h00",
-    "day": "de 10h à 18h30"
+    "day": "de 10h à 13h et de 15h30 à 18h30"
   },
   "base": {
     "and": "et",
-    "copyright": "©Tous droits réservés"
+    "copyright": "©Tous droits réservés",
+    "contact": "Contactez"
   },
   "site_title": "Le Portique club",
   "welcome_message": "Bienvenu au Portique Club!",
@@ -91,6 +93,10 @@
     "duration": "Séances de 20 minutes",
     "description": "(Avec pause de 13h à 15h30 sauf pour enfants ayant réservé)",
     "age_range": "de 3 à 99 ans",
+    "booking": {
+      "to_book": "Pour réserver votre créneau",
+      "mns_contact": "directement le maître-nageur une semaine avant votre arrivée."
+    },
     "content": {
       "list": {
         "title": "Dans la piscine chauffée de 10m/4m, nous vous proposons :",
