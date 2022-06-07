@@ -18,5 +18,4 @@ useHead({
     { name: 'description', content: t('meta.description') },
   ],
 })
-
 </script>
