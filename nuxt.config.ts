@@ -7,7 +7,7 @@ import Components from 'unplugin-vue-components/vite'
 export default defineNuxtConfig({
   buildModules: [
     '@nuxtjs/tailwindcss',
-    // '@intlify/nuxt3',
+    '@intlify/nuxt3',
   ],
   target: 'static',
   ssr: false,
@@ -51,19 +51,10 @@ export default defineNuxtConfig({
       MAPBOX_ACCESS_TOKEN: '', // Or a default value
     }
   },
-  // intlify: {
-  //   vueI18n: {
-  //     // You can setting same `createI18n` options here !
-  //     locale: 'en',
-  //     // localeDir: 'locales',
-  //     messages: {
-  //       en: {
-  //         hello: 'Hello'
-  //       },
-  //       fr: {
-  //         hello: 'Bonjour'
-  //       },
-  //     },
-  //   },
-  // },
+  intlify: {
+    vueI18n: {
+      // You can setting same `createI18n` options here !
+      locale: 'fr',
+    },
+  },
 })
