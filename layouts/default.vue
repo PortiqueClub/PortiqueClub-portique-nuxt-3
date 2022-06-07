@@ -8,5 +8,4 @@
     <!-- FOOTER -->
     <TheFooter />
   </div>
-
 </template>
