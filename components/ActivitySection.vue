@@ -81,7 +81,7 @@
 
   <div class="container z-20 flex items-center justify-center mt-24">
     <h2 class="z-20 text-lg font-bold text-center font-heading text-blue-dark">
-      {{ t('slogan') }}
+      {{ $t('slogan') }}
     </h2>
   </div>
   <img
@@ -91,9 +91,3 @@
   >
 </section>
 </template>
-
-<script setup lang="ts">
-import { useI18n } from 'vue-i18n'
-
-const { t } = useI18n()
-</script>
