@@ -7,5 +7,13 @@
   "footer": {
     "localisation": "Plage centrale (proche centre ville) 85360 La Tranche-sur-Mer",
     "copyright": "© Le Portique Club - Tous droits réservés"
+  },
+  "menu": {
+    "activity": "Activités & Cours de Natation",
+    "schedule": "Planning",
+    "needs": "Les indispensables",
+    "schedules-and-prices": "Horaires et tarifs",
+    "history": "Histoire du club",
+    "map": "Accessibilité"
   }
 }
