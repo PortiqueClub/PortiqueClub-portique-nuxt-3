@@ -2,7 +2,6 @@ import { defineNuxtConfig } from 'nuxt'
 import { HeadlessUiResolver } from 'unplugin-vue-components/resolvers'
 import Components from 'unplugin-vue-components/vite'
 
-
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   buildModules: [
@@ -26,7 +25,7 @@ export default defineNuxtConfig({
       Components({
         resolvers: [
           HeadlessUiResolver({}),
-          (name) => {
+          name => {
             if (name.includes('IconSolid')) {
               const realName = name.split('Solid')[0]
               return `@heroicons/vue/solid/esm/${realName}.js`
@@ -47,7 +46,7 @@ export default defineNuxtConfig({
     MAPBOX_ACCESS_TOKEN: '',
     public: {
       MAPBOX_ACCESS_TOKEN: '', // Or a default value
-    }
+    },
   },
   intlify: {
     vueI18n: {

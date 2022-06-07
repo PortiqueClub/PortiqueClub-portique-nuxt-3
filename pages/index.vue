@@ -6,6 +6,7 @@
   <Needs />
   <Pricings />
   <History />
+  <Map />
 </div>
 </template>
 
