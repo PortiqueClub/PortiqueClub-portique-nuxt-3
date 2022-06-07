@@ -15,5 +15,85 @@
     "schedules-and-prices": "Horaires et tarifs",
     "history": "Histoire du club",
     "map": "Accessibilité"
+  },
+  "club-kit": {
+    "cream": "Crême",
+    "water": "Bouteille d'eau",
+    "sun_glasses": "Lunettes de soleil",
+    "hat": "Casquette",
+    "swimsuit": "Maillot de bain",
+    "towel": "Serviette",
+    "snack": "Goûter "
+  },
+  "payment": {
+    "title": "Moyens de paiements",
+    "cash": "Espèce",
+    "cv": "Chèque-vacances"
+  },
+  "club": {
+    "history_title": "L'histoire du club",
+    "history_content": "Lorsqu’en 1932 J. J. Breittmayer installe le “portique” sur la plage de La Tranche, les gens du pays sont ébahis… Sur la poutre centrale, en jaune et bleu, une devise pour ce maître d’éducation physique, « Être fort pour être utile ». En 1966, un de ses moniteurs, Camille lui succède et c’est l’heure de la modernité avec la première piscine et le premier trampoline, le “portique” devient un Club Mickey, avec ses caravanes publicitaires inter-plages. En 1977, avec Patrice et Danielle, c’est le club “famille” place au baby-club, aux jeux et concours, aux Olympiades, aux tournois de volley-ball, à la voile et sa flotille d’optimists et surtout, place à l’école de natation ! C’est Ludovic, un des MNS (Maître Nageur Sauveteur), qui a repris le flambeau jusqu’à ce jour.",
+    "lunch-break": "Pause déjeuner et surveilliance des enfants qui restent l'après-midi ",
+    "morning": "Encadrés par les animateurs, les petits et grands évoluent à leur guise au sein du club et profitent des installations (balançoires, trampoline, jeux). En fonction de la dynamique du groupe et des horaires des marées, les animateurs proposent des jeux, concours, parcours, observation des fonds marins… Une baignade en fin de matinée est prévue si le temps nous le permet.",
+    "lunch": "Pause déjeuner (possibilité sur réservation de garder des enfants)",
+    "on_closing": "Pour finaliser cette après-midi joyeuse, tous les enfants et les animateurs se retrouvent autour d’une chorégraphie ! On compte sur les adultes pour se joindre à eux ! ",
+    "mini": {
+      "title": "mini club",
+      "age_range": "de 3 à 6 ans",
+      "afternoon": "Dans un premier temps, les enfants se rencontrent et évoluent avec les animateurs autour des installations et jeux mis à leur disposition. Une baignade est prévue pour ceux qui le désirent. Vient ensuite l’heure du goûter tous ensemble ! Enfin, un grand jeu collectif est organisé."
+    },
+    "big_club": {
+      "title": "grand club",
+      "age_range": "de 6 à 13 ans",
+      "afternoon": "Premièrement, les enfants se rencontrent et découvrent les animateurs tout en profitant des structures. Puis, vient l’heure du goûter tous ensemble ! Une fois le goûter mangé et les rencontres faites, le grand jeu concours est lancé. En fin d’après-midi une baignade est proposée."
+    },
+    "accessibility": {
+      "title": "Accessibilité / S'y rendre",
+      "content": "Accessible à pied, en vélo (piste cyclable), en bus (Fun Bus, arrêt Rond-Point L’Auniscéane Piscine ou Centre ville – Place de la Liberté), en voiture (parking du Maupas)",
+      "address": "Plage centrale (proche centre ville) 85360 La Tranche-sur-Mer"
+    }
+  },
+  "pricings": {
+    "title": "tarifs",
+    "morning": "12€",
+    "afternoon": "15€",
+    "day": "18€",
+    "lessons": "15€",
+    "description": "Présentez-vous directement sur la plage pour faire l'inscription (Nom, prénom, téléphon et adresse). L’inscription est simple et rapide à la demi-journée, à la journée ou à la semaine."
+  },
+  "schedules_of_week": {
+    "title": "Le planning de la semaine"
+  },
+  "hours": {
+    "title": "horaires",
+    "morning": "de 10 à 13h",
+    "lunch": "de 13h30 à 15h30",
+    "afternoon": "de 15h30 à 18h30",
+    "on_closing": "de 18h30 à 19h00",
+    "day": "de 10h à 18h30"
+  },
+  "base": {
+    "and": "et",
+    "copyright": "©Tous droits réservés"
+  },
+  "site_title": "Le Portique club",
+  "welcome_message": "Bienvenu au Portique Club!",
+  "slogan": "Le portique club accueille vos enfants de 3 à 13 ans pendant la période estivale toute la semaine sauf le samedi de 10h à 13h et de 15h30 à 18h30",
+  "booking": {
+    "with": "avec résevation",
+    "without": "sans réservation"
+  },
+  "pool": {
+    "swim_lessons": "Cours de natatations",
+    "title_short": "Cours",
+    "duration": "Séances de 30 minutes",
+    "description": "(Avec pause de 13h à 15h30 sauf pour enfants ayant réservé)",
+    "age_range": "de 3 à 13 ans",
+    "content": "Séances de 20 minutes, De 3 à 5 ans, un parcours ludique est proposé afin de développer les compétences aquatiques et avancer vers l’autonomie dans l’eau. A partir de 6 ans, des cours de natation sont proposés. Le maître nageur s’adapte à tous les niveaux et tous les âges (aquaphobie, adaptation et familiarisation, apprentissage, perfectionnement). Les cours de natation sont assurés par un maître nageur diplômé d'État. Évidemment, il est possible de prendre un cours de natation pendant la journée de club."
+  },
+  "activities": {
+    "title": "Les activités",
+    "without_reservation": "sans réservation",
+    "with_reservation": "avec réservation"
   }
 }
