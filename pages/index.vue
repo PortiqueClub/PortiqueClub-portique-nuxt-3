@@ -1,9 +1,12 @@
 <template>
-<ActivitySection />
-<Activities />
-<Schedule />
-<Needs />
-<Pricings />
+<div class="">
+  <ActivitySection />
+  <Activities />
+  <Schedule />
+  <Needs />
+  <Pricings />
+  <History />
+</div>
 </template>
 
 <script setup lang="ts">
