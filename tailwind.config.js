@@ -1,7 +1,18 @@
+const colors = require('./colors')
+
+/** @type {import("@types/tailwindcss/tailwind-config").TailwindConfig } */
 module.exports = {
-  content: [],
+  mode: 'jit',
+  content: [
+    './public/**/*.html',
+    './src/**/*.vue',
+    './src/**/*.js',
+    './src/**/*.ts',
+  ],
   theme: {
-    extend: {},
+    extend: {
+      colors,
+    },
   },
   plugins: [],
 }
