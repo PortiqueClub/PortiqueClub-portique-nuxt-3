@@ -62,8 +62,8 @@
     "lessons": "15€",
     "description": "Présentez-vous directement sur la plage pour faire l'inscription (Nom, prénom, téléphon et adresse). L’inscription est simple et rapide à la demi-journée, à la journée ou à la semaine."
   },
-  "schedules_of_week": {
-    "title": "Le planning de la semaine"
+  "schedules_of_season": {
+    "title": "Les jeux concours de la saison"
   },
   "hours": {
     "title": "horaires",

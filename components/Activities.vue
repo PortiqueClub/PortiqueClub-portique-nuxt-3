@@ -45,10 +45,10 @@
           <div class="flex flex-col px-12 space-y-12">
             <div class="flex flex-col items-center justify-center space-y-12">
               <h6 class="px-6 py-4 rounded-full text-yellow-light bg-blue-dark">
-                {{ t('hours.morning') }}
+                {{ $t('hours.morning') }}
               </h6>
               <p class="px-8 text-blue-dark">
-                {{ t('club.morning') }}
+                {{ $t('club.morning') }}
               </p>
             </div>
             <div class="hidden grid-cols-2 gap-32 md:grid">
@@ -73,10 +73,10 @@
         <div class="flex flex-col px-12">
           <div class="flex flex-col items-center justify-center">
             <h6 class="px-6 py-4 rounded-full text-yellow-light bg-blue-dark">
-              {{ t('hours.lunch') }}
+              {{ $t('hours.lunch') }}
             </h6>
             <p class="px-8 text-blue-dark">
-              {{ t('club.lunch') }}
+              {{ $t('club.lunch') }}
             </p>
           </div>
         </div>
@@ -86,19 +86,19 @@
       <div class="grid grid-cols-2 gap-4 px-16 py-8 md:gap-32">
         <div class="flex flex-col items-center px-12 py-8 space-y-12 border-4 rounded-lg border-yellow-light">
           <h6 class="px-6 py-4 text-center rounded-full text-blue-dark bg-yellow-light">
-            {{ t('hours.afternoon') }}
+            {{ $t('hours.afternoon') }}
           </h6>
           <p class="px-8 text-yellow-light">
-            {{ t('club.mini.afternoon') }}
+            {{ $t('club.mini.afternoon') }}
           </p>
         </div>
         <!-- big afternoon -->
         <div class="flex flex-col items-center px-12 py-8 space-y-12 border-4 rounded-lg border-yellow-light bg-yellow-light">
           <h6 class="px-6 py-4 text-center rounded-full text-yellow-light bg-blue-dark">
-            {{ t('hours.afternoon') }}
+            {{ $t('hours.afternoon') }}
           </h6>
           <p class="px-12 text-blue-dark">
-            {{ t('club.big_club.afternoon') }}
+            {{ $t('club.big_club.afternoon') }}
           </p>
         </div>
       </div>
@@ -107,14 +107,14 @@
     <div class="col-span-3 space-y-16 sm:col-span-2 md:row-span-4">
       <div class="flex flex-col items-center justify-center space-y-8 text-center">
         <h4 class="text-xl font-bold text-blue-light">
-          {{ t('booking.with') }}
+          {{ $t('booking.with') }}
         </h4>
         <div class="px-20 py-8 text-center border-4 rounded-full border-blue-light bg-blue-light">
           <h5 class="font-semibold text-blue-dark">
-            {{ t('pool.swim_lessons') }}
+            {{ $t('pool.swim_lessons') }}
           </h5>
           <p class="font-semibold text-blue-dark">
-            {{ t('pool.age_range') }}
+            {{ $t('pool.age_range') }}
           </p>
         </div>
       </div>
@@ -124,22 +124,22 @@
         <div class="flex flex-col px-12 space-y-24">
           <div class="flex flex-col items-center justify-center space-y-24">
             <h6 class="px-6 py-4 rounded-full text-blue-light bg-blue-dark">
-              {{ t('hours.day') }}
+              {{ $t('hours.day') }}
             </h6>
             <h6 class="px-6 py-4 rounded-full text-blue-light bg-blue-dark">
-              {{ t('pool.duration') }}
+              {{ $t('pool.duration') }}
             </h6>
             <ul class="px-8 space-y-6 list-disc text-blue-dark">
-              {{ t('pool.content.list.title') }}
+              {{ $t('pool.content.list.title') }}
               <li class="px-8">
-                {{ t('pool.content.list.for_small_kids') }}
+                {{ $t('pool.content.list.for_small_kids') }}
               </li>
               <li class="px-8">
-                {{ t('pool.content.list.for_big_kids') }}
+                {{ $t('pool.content.list.for_big_kids') }}
               </li>
             </ul>
             <p class="px-8 text-blue-dark">
-              {{ t('pool.content.list.infos_message') }}
+              {{ $t('pool.content.list.infos_message') }}
             </p>
           </div>
           <div class="hidden md:block">
@@ -158,10 +158,10 @@
   <div class="md:container">
     <div class="flex flex-col items-center justify-center px-16 py-12 space-y-16 text-center rounded-lg bg-yellow-light">
       <h6 class="px-6 py-4 rounded-full text-yellow-light bg-blue-dark lg:text-2xl">
-        {{ t('club.on_closing_title') }}
+        {{ $t('club.on_closing_title') }}
       </h6>
       <p class="px-32 text-blue-dark">
-        {{ t('club.on_closing') }}
+        {{ $t('club.on_closing') }}
       </p>
       <div class="hidden md:block">
         <img
@@ -174,9 +174,3 @@
   </div>
 </section>
 </template>
-
-<script setup lang="ts">
-import { useI18n } from 'vue-i18n'
-
-const { t } = useI18n()
-</script>

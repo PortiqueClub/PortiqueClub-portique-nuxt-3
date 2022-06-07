@@ -1,6 +1,7 @@
 <template>
 <ActivitySection />
 <Activities />
+<Schedule />
 </template>
 
 <script setup lang="ts">
