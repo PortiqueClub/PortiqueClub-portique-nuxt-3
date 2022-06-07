@@ -1,5 +1,6 @@
 <template>
 <ActivitySection />
+<Activities />
 </template>
 
 <script setup lang="ts">

@@ -35,17 +35,18 @@
     "history_content": "Lorsqu’en 1932 J. J. Breittmayer installe le “portique” sur la plage de La Tranche, les gens du pays sont ébahis… Sur la poutre centrale, en jaune et bleu, une devise pour ce maître d’éducation physique, « Être fort pour être utile ». En 1966, un de ses moniteurs, Camille lui succède et c’est l’heure de la modernité avec la première piscine et le premier trampoline, le “portique” devient un Club Mickey, avec ses caravanes publicitaires inter-plages. En 1977, avec Patrice et Danielle, c’est le club “famille” place au baby-club, aux jeux et concours, aux Olympiades, aux tournois de volley-ball, à la voile et sa flotille d’optimists et surtout, place à l’école de natation ! C’est Ludovic, un des MNS (Maître Nageur Sauveteur), qui a repris le flambeau jusqu’à ce jour.",
     "lunch-break": "Pause déjeuner et surveilliance des enfants qui restent l'après-midi ",
     "morning": "Encadrés par les animateurs, les petits et grands évoluent à leur guise au sein du club et profitent des installations (balançoires, trampoline, jeux). En fonction de la dynamique du groupe et des horaires des marées, les animateurs proposent des jeux, concours, parcours, observation des fonds marins… Une baignade en fin de matinée est prévue si le temps nous le permet.",
-    "lunch": "Pause déjeuner (possibilité sur réservation de garder des enfants)",
-    "on_closing": "Pour finaliser cette après-midi joyeuse, tous les enfants et les animateurs se retrouvent autour d’une chorégraphie ! On compte sur les adultes pour se joindre à eux ! ",
+    "lunch": "Pause déjeuner : Les enfants retrouvent leurs parents. Possibilité d’accueillir les enfants sous conditions (N’hésitez pas à nous solliciter)",
+    "on_closing": "Pour finaliser cet après-midi joyeuse, tous les enfants et les animateurs se retrouvent autour d'une chorégraphie ! On compte sur les adultes pour se joindre à eux ! Une remise de cadeaux pour clôturer cette belle journée",
+    "on_closing_title": "Le final ! ",
     "mini": {
       "title": "mini club",
       "age_range": "de 3 à 6 ans",
-      "afternoon": "Dans un premier temps, les enfants se rencontrent et évoluent avec les animateurs autour des installations et jeux mis à leur disposition. Une baignade est prévue pour ceux qui le désirent. Vient ensuite l’heure du goûter tous ensemble ! Enfin, un grand jeu collectif est organisé."
+      "afternoon": "Dans un premier temps, les plus jeunes enfants se rencontrent et évoluent avec les animateurs autour des installations et jeux mis à leur disposition. Une baignade est prévue pour ceux qui le désirent. Vient ensuite l'heure du goûter tous ensemble, des jeux collectifs sont organisés"
     },
     "big_club": {
       "title": "grand club",
       "age_range": "de 6 à 13 ans",
-      "afternoon": "Premièrement, les enfants se rencontrent et découvrent les animateurs tout en profitant des structures. Puis, vient l’heure du goûter tous ensemble ! Une fois le goûter mangé et les rencontres faites, le grand jeu concours est lancé. En fin d’après-midi une baignade est proposée."
+      "afternoon": "Les enfants se rencontrent et découvrent les animateurs tout en profitant des structures, ils partagent ensuite le moment du goûter, lancement du grand jeu concours. En fin d'après-midi une baignade est proposée."
     },
     "accessibility": {
       "title": "Accessibilité / S'y rendre",
@@ -86,10 +87,17 @@
   "pool": {
     "swim_lessons": "Cours de natatations",
     "title_short": "Cours",
-    "duration": "Séances de 30 minutes",
+    "duration": "Séances de 20 minutes",
     "description": "(Avec pause de 13h à 15h30 sauf pour enfants ayant réservé)",
-    "age_range": "de 3 à 13 ans",
-    "content": "Séances de 20 minutes, De 3 à 5 ans, un parcours ludique est proposé afin de développer les compétences aquatiques et avancer vers l’autonomie dans l’eau. A partir de 6 ans, des cours de natation sont proposés. Le maître nageur s’adapte à tous les niveaux et tous les âges (aquaphobie, adaptation et familiarisation, apprentissage, perfectionnement). Les cours de natation sont assurés par un maître nageur diplômé d'État. Évidemment, il est possible de prendre un cours de natation pendant la journée de club."
+    "age_range": "de 3 à 99 ans",
+    "content": {
+      "list": {
+        "title": "Dans la piscine chauffée de 10m/4m, nous vous proposons :",
+        "for_small_kids": "Pour les 3 à 5 ans, un parcours ludique est proposé afin de développer les compétences aquatiques et avancer vers l'autonomie dans l'eau.",
+        "for_big_kids": "A partir de 6 ans, des cours de natation sont proposés",
+        "infos_message": "Le maître-nageur Ludovic s'adapte à tous les niveaux et tous les âges (aquaphobie, adaptation et familiarisation, apprentissage, perfectionnement). Les cours de natation sont assurés par un maître-nageur diplômé d'État. Il est possible de prendre un cours de natation pendant la journée de club."
+      }
+    }
   },
   "activities": {
     "title": "Les activités",
