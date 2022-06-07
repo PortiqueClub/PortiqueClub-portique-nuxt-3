@@ -2,6 +2,7 @@
 <ActivitySection />
 <Activities />
 <Schedule />
+<Needs />
 </template>
 
 <script setup lang="ts">

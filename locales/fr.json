@@ -16,7 +16,8 @@
     "history": "Histoire du club",
     "map": "Accessibilité"
   },
-  "club-kit": {
+  "club_kit": {
+    "title": "Mon sac de plage pour passer une bonne journée au club !",
     "cream": "Crême",
     "water": "Bouteille d'eau",
     "sun_glasses": "Lunettes de soleil",
