@@ -1,8 +1,5 @@
 <template>
-<div class="flex flex-col items-center justify-center text-xl text-red-500">
-  <h1>index.vue</h1>
-  <p>{{ t('test') }}</p>
-</div>
+<ActivitySection />
 </template>
 
 <script setup lang="ts">
