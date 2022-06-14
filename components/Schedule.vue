@@ -10,12 +10,12 @@
 
     <a
       class="flex items-center justify-center px-48 py-48 rounded-lg cursor-pointer bg-yellow-light"
-      href="/public/static/Jeux-concours-2021-juillet-et-août-1.pdf"
+      href="/static/Jeux-concours-2021-juillet-et-août-1.pdf"
       download
     >
       <img
         class="w-256 h-256 text-blue-dark"
-        src="/public/static/calendar.svg"
+        src="/static/calendar.svg"
         alt="calendar-icon"
       >
     </a>

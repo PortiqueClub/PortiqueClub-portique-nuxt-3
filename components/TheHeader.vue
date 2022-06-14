@@ -3,7 +3,7 @@
   <div class="flex items-center justify-around md:container">
     <img
       class="object-cover w-56"
-      src="../../public/static/logo-bleu.svg"
+      src="/static/logo-bleu.svg"
       alt="Portique club Logo"
     >
     <nav class="items-center hidden space-x-24 md:flex">
@@ -11,7 +11,7 @@
         v-for="(item, index) in MENU_ITEMS"
         :key="index"
         :href="item.path"
-        class="text-lg font-semibold text-blue-dark font-heading"
+        class="truncate md:text-base lg:text-lg text-blue-dark font-heading"
       >
         {{ item.trad }}
       </a>

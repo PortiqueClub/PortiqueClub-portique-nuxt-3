@@ -10,7 +10,7 @@
     <div class="flex flex-col items-center justify-center">
       <img
         class="w-full h-192"
-        src="/public/static/creme.svg"
+        src="/static/creme.svg"
         :alt="$t('club_kit.cream')"
       >
       <p class="text-yellow-light">
@@ -20,7 +20,7 @@
     <div class="flex flex-col items-center justify-center">
       <img
         class="w-full h-192"
-        src="/public/static/eau.svg"
+        src="/static/eau.svg"
         :alt="$t('club_kit.water')"
       >
       <p class="text-yellow-light">
@@ -30,7 +30,7 @@
     <div class="flex flex-col items-center justify-center">
       <img
         class="w-full h-192"
-        src="/public/static/lunette.svg"
+        src="/static/lunette.svg"
         :alt="$t('club_kit.sun_glasses')"
       >
       <p class="text-yellow-light">
@@ -40,7 +40,7 @@
     <div class="flex flex-col items-center justify-center">
       <img
         class="w-full h-192"
-        src="/public/static/casquette.svg"
+        src="/static/casquette.svg"
         :alt="$t('club_kit.hat')"
       >
       <p class="text-yellow-light">
@@ -52,7 +52,7 @@
     <div class="flex flex-col items-center justify-center">
       <img
         class="h-192"
-        src="/public/static/maillot.svg"
+        src="/static/maillot.svg"
         :alt="$t('club_kit.swimsuit')"
       >
       <p class="text-yellow-light">
@@ -62,7 +62,7 @@
     <div class="flex flex-col items-center justify-center">
       <img
         class="w-full h-192"
-        src="/public/static/serviette.svg"
+        src="/static/serviette.svg"
         :alt="$t('club_kit.towel')"
       >
       <p class="text-yellow-light">
@@ -72,7 +72,7 @@
     <div class="flex flex-col items-center justify-center">
       <img
         class="w-full h-192"
-        src="/public/static/banane.svg"
+        src="/static/banane.svg"
         :alt="$t('club_kit.snack')"
       >
       <p class="text-yellow-light">

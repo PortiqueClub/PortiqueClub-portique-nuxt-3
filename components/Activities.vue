@@ -54,12 +54,12 @@
             <div class="hidden grid-cols-2 gap-32 md:grid">
               <img
                 class="w-full"
-                src="/public/static/trampoline.svg"
+                src="/static/trampoline.svg"
                 alt="trampoline"
               >
               <img
                 class="w-full"
-                src="/public/static/balancoire.svg"
+                src="/static/balancoire.svg"
                 alt="balançoires"
               >
               <!-- TODO add translation for assets -->
@@ -145,7 +145,7 @@
           <div class="hidden md:block">
             <img
               class="w-full"
-              src="/public/static/nageur.svg"
+              src="/static/nageur.svg"
               alt="nageur"
             >
           </div>
@@ -166,7 +166,7 @@
       <div class="hidden md:block">
         <img
           class="w-full h-256"
-          src="/public/static/dance.svg"
+          src="/static/dance.svg"
           alt="dance"
         >
       </div>

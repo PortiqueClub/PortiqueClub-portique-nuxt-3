@@ -2,12 +2,12 @@
 <footer id="contact" class="relative px-32 py-48 text-center duration-500 ease-in-out transform mt-18 bg-yellow-light text-blue-dark">
   <img
     class="absolute left-0 z-0 hidden object-cover md:block w-450 h-450 -top-288"
-    src="../../public/static/castle.svg"
+    src="/static/castle.svg"
     alt="castle"
   />
   <img
     class="absolute left-0 z-0 hidden w-full md:block -top-56"
-    src="../../public/static/wave-footergold.svg"
+    src="/static/wave-footergold.svg"
     alt="waves footer"
   />
 
@@ -31,14 +31,14 @@
       <a class="cursor-pointer" href="https://www.facebook.com/Le-Portique-Club-112920581057535" target="_blank">
         <img
           class="w-48"
-          src="/public/static/fb-logo.svg"
+          src="/static/fb-logo.svg"
           alt="Facebook logo"
         />
       </a>
       <a class="cursor-pointer" href="https://www.instagram.com/leportiqueclub/" target="_blank">
         <img
           class="w-48"
-          src="/public/static/instalogo.svg"
+          src="/static/instalogo.svg"
           alt="Instagram logo"
         />
       </a>

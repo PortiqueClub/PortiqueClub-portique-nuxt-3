@@ -89,7 +89,7 @@
           </h6>
           <img
             class="w-full h-106"
-            src="/public/static/euro.svg"
+            src="/static/euro.svg"
             alt="Espèce"
           >
         </div>
@@ -99,7 +99,7 @@
           </h6>
           <img
             class="w-full h-80"
-            src="/public/static/cheque.png"
+            src="/static/cheque.png"
             alt="Espèce"
           >
         </div>
@@ -109,7 +109,7 @@
           </h6>
           <img
             class="w-full h-106"
-            src="/public/static/cheque-vacance.svg"
+            src="/static/cheque-vacance.svg"
             alt="Chèque-vacances"
           >
         </div>
