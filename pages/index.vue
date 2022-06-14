@@ -1,5 +1,5 @@
 <template>
-<div class="">
+<div class="flex flex-col items-center ">
   <ActivitySection />
   <Activities />
   <Schedule />
@@ -24,3 +24,24 @@ useHead({
   ],
 })
 </script>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Chewy&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  a,
+  p {
+    font-family: 'Chewy', cursive;
+  }
+}
+</style>

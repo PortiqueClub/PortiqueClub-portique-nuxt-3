@@ -1,5 +1,5 @@
 <template>
-<section class="relative py-12 bg-yellow-light">
+<section class="relative flex flex-col items-center justify-center w-full py-12 bg-yellow-light">
   <div class="hidden md:grid-cols-5 md:gap-12 md:grid">
     <div class="z-10 flex items-start justify-end w-full h-full">
       <img
