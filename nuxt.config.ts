@@ -1,4 +1,3 @@
-import { defineNuxtConfig } from 'nuxt'
 import { HeadlessUiResolver } from 'unplugin-vue-components/resolvers'
 import Components from 'unplugin-vue-components/vite'
 
@@ -9,6 +8,9 @@ export default defineNuxtConfig({
     '@intlify/nuxt3',
   ],
   target: 'static',
+  typescript: {
+    strict: true,
+  },
   ssr: false,
   head: {
     title: 'Le Portique club',
